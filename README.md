@@ -1,3 +1,3 @@
 Spotify New Releases
 
-https://spotify-okanatas.vercel.app/login
+https://spotify-okanatas.vercel.app
